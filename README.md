@@ -7,6 +7,12 @@ This pratical study aims to put into practice theoretical studies on image proce
 
 The algorithms in this application identify crowds of people and send an alert about social distancing. 
 
+<img src="https://res.cloudinary.com/menozzi/image/upload/v1638840223/tg/AlertSocialDistancing.png" width="400">
+<br/>
+
+>Example when its' applying COUNT technique:
+<br/>
+<img src="https://res.cloudinary.com/menozzi/image/upload/v1638840223/tg/CNT_applied.png" width="400">
 
 
 ## Built With
