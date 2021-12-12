@@ -1,6 +1,8 @@
 
 # Social Distancing with image processing
 
+This is a proof of concept on the objects of studies about image processing and OpenCV.
+
 This application aims to apply image processing techniques (MOG, GMC, KNN and CNT) with visual computing.
 
 This pratical study aims to put into practice theoretical studies on image processing applied in scenarios for identifying agglomeration of people based on analysis of camera images.
